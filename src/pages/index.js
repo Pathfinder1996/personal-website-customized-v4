@@ -1,5 +1,4 @@
 import React from 'react';
-import Head from '../components/head';
 import PropTypes from 'prop-types';
 import styled from 'styled-components';
 import { Layout, Hero, About, Jobs, Featured, Projects, Contact } from '@components';
