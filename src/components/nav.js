@@ -207,7 +207,7 @@ const Nav = ({ isHome }) => {
 
   const ResumeLink = (
     <a className="resume-button" href="/my_resume.pdf" target="_blank" rel="noopener noreferrer">
-      點擊集下載我的履歷表
+      點擊下載我的履歷表
     </a>
   );
 
