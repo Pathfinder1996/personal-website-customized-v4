@@ -4,10 +4,10 @@ module.exports = {
   siteMetadata: {
     title: '戴聖宴的個人網站',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+      '您好，我是戴聖宴，熱衷於學習新技術並將其應用於實際專案中。',
+    siteUrl: 'https://dsy-personal-website-v4.vercel.app/', // No trailing slash allowed!
+    image: '/me.jpg', // Path to your image you placed in the 'static' folder
+    twitterUsername: '',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Brittany Chiang',
-        short_name: 'Brittany Chiang',
+        name: '戴聖宴',
+        short_name: '戴聖宴',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
