@@ -4244,8 +4244,8 @@ var plugins = [{
   plugin: __webpack_require__(/*! ./node_modules/gatsby-plugin-manifest/gatsby-ssr */ "./node_modules/gatsby-plugin-manifest/gatsby-ssr.js"),
   options: {
     "plugins": [],
-    "name": "Brittany Chiang",
-    "short_name": "Brittany Chiang",
+    "name": "戴聖宴",
+    "short_name": "戴聖宴",
     "start_url": "/",
     "background_color": "#020c1b",
     "theme_color": "#0a192f",
